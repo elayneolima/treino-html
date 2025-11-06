@@ -1,0 +1,29 @@
+*{
+    margin:  0;
+    padding: 0;
+}
+
+.container-header {
+    display: flex;
+    justify-content: space-around;   
+}
+
+.menu-lista{
+    display: flex;
+    list-style: none;
+
+}
+
+
+.item{
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    font-size: 16px;
+}
+
+.Area{
+    font-size: 30px;
+    color: #000000;
+    text-decoration: none;
+}
